@@ -1,0 +1,9 @@
+c:\dev\Neuro\NeuroTest\bin\Debug\NeuroTest.dll
+c:\dev\Neuro\NeuroTest\bin\Debug\NeuroTest.pdb
+c:\dev\Neuro\NeuroTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\dev\Neuro\NeuroTest\bin\Debug\Neuro.dll
+c:\dev\Neuro\NeuroTest\bin\Debug\Neuro.pdb
+c:\dev\Neuro\NeuroTest\obj\Debug\Neuro.Test.csprojResolveAssemblyReference.cache
+c:\dev\Neuro\NeuroTest\obj\Debug\NeuroTest.dll
+c:\dev\Neuro\NeuroTest\obj\Debug\NeuroTest.pdb
+C:\dev\Neuro\NeuroTest\obj\Debug\Neuro.Test.csproj.CoreCompileInputs.cache

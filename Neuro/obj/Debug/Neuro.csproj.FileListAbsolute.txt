@@ -1,0 +1,6 @@
+c:\dev\Neuro\Neuro\bin\Debug\Neuro.dll
+c:\dev\Neuro\Neuro\bin\Debug\Neuro.pdb
+c:\dev\Neuro\Neuro\obj\Debug\Neuro.csprojResolveAssemblyReference.cache
+c:\dev\Neuro\Neuro\obj\Debug\Neuro.dll
+c:\dev\Neuro\Neuro\obj\Debug\Neuro.pdb
+C:\dev\Neuro\Neuro\obj\Debug\Neuro.csproj.CoreCompileInputs.cache
